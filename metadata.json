@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeoGuesser AI",
+  "description": "Una aplicación divertida y adictiva que adivina la ubicación de tus fotos usando inteligencia artificial avanzada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
